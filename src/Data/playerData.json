@@ -1,0 +1,115 @@
+[
+    {
+        "id": "1",
+        "name": "Alisson Becker",
+        "country": "Brazil",
+        "position": "Goalkeeper/ GK",
+        "salary": 5500000,
+        "image": "https://i.ibb.co/LSs2Ypr/Alisson.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Virgil van Dijk",
+        "country": "Netherlands",
+        "position": "Defender/ CB",
+        "salary": 5200000,
+        "image": "https://i.ibb.co/HVDmN2r/virgil.jpg"
+    },
+    {
+        "id": "26",
+        "name": "Andrew Robertson",
+        "country": "Scotland",
+        "position": "Defender/ LB",
+        "salary": 4400000,
+        "image": "https://i.ibb.co/bB44Bmb/robertson.jpg"
+    },
+    {
+        "id": "66",
+        "name": "Trent Alexander-Arnold",
+        "country": "England",
+        "position": "Defender/ RB",
+        "salary": 4400000,
+        "image": "https://i.ibb.co/3dPdSFb/arnold.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Jordan Henderson",
+        "country": "England",
+        "position": "Midfield/ CDM/ CM",
+        "salary": 5200000,
+        "image": "https://i.ibb.co/DzWZnjp/henderson.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Fabinho",
+        "country": "Brazil",
+        "position": "Midfield/ CDM",
+        "salary": 5300000,
+        "image": "https://i.ibb.co/g9b0Cpm/fabinho.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Naby Keïta",
+        "country": "Guinea",
+        "position": "Midfield/ CDM",
+        "salary": 5700000,
+        "image": "https://i.ibb.co/Gdmyf28/keita.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Thiago Alcântara",
+        "country": "Spain",
+        "position": "Midfield/ CM",
+        "salary": 6200000,
+        "image": "https://i.ibb.co/8P0Njp1/thiago.jpg"
+    },
+    {
+        "id": "23",
+        "name": "Xherdan Shaqiri",
+        "country": "Switzerland",
+        "position": "Midfield/ RM",
+        "salary": 3300000,
+        "image": "https://i.ibb.co/Kzcw3kG/shaqiri.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Alex Oxlade-Chamberlain",
+        "country": "England",
+        "position": "Midfield/ RM",
+        "salary": 2100000,
+        "image": "https://i.ibb.co/XFCDd5s/chamberlin.jpg"
+    },
+    {
+        "id": "7",
+        "name": "James Milner",
+        "country": "England",
+        "position": "Midfield/ LM",
+        "salary": 5600000,
+        "image": "https://i.ibb.co/wwqKC1z/james.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Mohamed Salah",
+        "country": "Egypt",
+        "position": "Forward/ RW",
+        "salary": 6500000,
+        "image": "https://i.ibb.co/KrgfGZ1/salah.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Sadio Mané",
+        "country": "Senegal",
+        "position": "Forward/ LW",
+        "salary": 5500000,
+        "image": "https://i.ibb.co/Cmx5Y5J/mane.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Roberto Firmino",
+        "country": "Brazil",
+        "position": "Forward/ CF/ ST",
+        "salary": 6200000,
+        "image": "https://i.ibb.co/pwj5VMZ/firmino.jpg"
+    }
+
+]

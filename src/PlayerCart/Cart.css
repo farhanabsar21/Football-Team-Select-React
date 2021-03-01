@@ -1,0 +1,22 @@
+.cart-list{
+    text-align: center;
+}
+.cart-player h2{
+    color: #b30000;
+}
+
+.cart-player li{
+    list-style-type: none;
+    padding: 5px 15px;
+    width: 240px;
+    background: #b30000;
+    margin-top: 10px;
+    border-radius: 15px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+strong{
+    color: #b30000;
+}

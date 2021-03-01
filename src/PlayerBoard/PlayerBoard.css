@@ -1,0 +1,35 @@
+.players-container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.player-list{
+    margin-left: 20px;
+}
+.player-detail{
+    width: 75%;
+    background: #fff;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.player-cart{
+    width: 25%;
+    height: auto;
+    background: #fff;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 10px;
+}
+.player-detail h2, .player-cart h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.player-cart h3{
+    text-align: center;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
